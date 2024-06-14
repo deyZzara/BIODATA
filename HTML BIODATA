@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata Siswa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .biodata-container {
+            margin: 20px;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+        .profile-picture {
+            float: left;
+            margin-right: 20px; 
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <div class="biodata-container">
+        <img src="C:\Users\DELL\Downloads\kurama.jpg" alt="Profile picture" class="profile-picture">
+        <h1>Biodata Siswa</h1>
+        <p>Nama: Rama Adrien Fadey</p>
+        <p>Umur: 17</p>
+        <p>Lulusan: Smk Bina Informatika</p>
+        <h2>Riwayat Pendidikan</h2>
+        <p>SD: SDIT CORDOVA</p>
+        <p>SMP: Ponpes Ummul Qur'an</p>
+        <p>SMA: Bina Informatika</p>
+        <p>No. Telp: 085159950401</p>
+        <p>Email: <a href="mailto:fadeyrama@gmail.com">fadeyrama@gmail.com</a></p>
+    </div>
+</body>
+</html>
